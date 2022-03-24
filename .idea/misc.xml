@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/drawable-pt-rBR/strings.xml" value="0.116" />
         <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/drawable/circulo.xml" value="0.145" />
         <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/drawable/circulo_2.xml" value="0.1" />
-        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/drawable/ic_logo.xml" value="0.1" />
+        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/layout/activity_splash_screnn.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Documents/AulaNoite/cronometro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.205" />
       </map>
     </option>
   </component>
